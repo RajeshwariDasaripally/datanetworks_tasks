@@ -21,7 +21,7 @@ What is the subnet address?
 192.168.28.0
 ```
 
-![](/documentation/E03/Exercise1.jpeg)
+![](E03/Exercise1.jpeg)
 
 
 ### Exercise 2
@@ -65,7 +65,7 @@ First IP Host address                               192.168.28.193
 Last IP Host address                                192.168.28.254
 Broadcast address                                   192.168.28.255
 ```
-![](/documentation/E03/Exercise2.jpeg)
+![](E03/Exercise2.jpeg)
 
 ### Exercise 3
 ```
@@ -220,8 +220,8 @@ Last IP Host address	                            10.10.05.254
 Broadcast address                                   10.10.05.255
 
 ```
-![](/documentation/E03/Exercise3a.jpeg)
-![](/documentation/E03/Exercise3b.jpeg)
+![](/E03/Exercise3a.jpeg)
+![](/E03/Exercise3b.jpeg)
 
 ### Exercise 4
 ```
@@ -269,7 +269,7 @@ First IP Host address	        10.10.05.253
 Last IP Host address	        10.10.05.254
 Broadcast address               10.10.05.255
 ```
-![](/documentation/E03/Exercise4.jpeg)
+![](/E03/Exercise4.jpeg)
 
 ### Exercise 5
 
@@ -342,9 +342,9 @@ Rajeshwari_student_number = 2210528
 195.10.05.0/24 -RIPE 43.10.28.0/24 -APNIC, 15.28.10.0/24  -ARIN 100.05.28.0/24  -ARIN
 
 ```
-![](/documentation/E03/ipaddress195.JPG)
-![](/documentation/E03/ipaddress43.JPG)
-![](/documentation/E03/ipaddress15.JPG)
-![](/documentation/E03/ipaddress100.JPG)
+![](E03/ipaddress195.JPG)
+![](/E03/ipaddress43.JPG)
+![](/E03/ipaddress15.JPG)
+![](/E03/ipaddress100.JPG)
 
 https://lookup.icann.org/en/lookup

@@ -10,12 +10,12 @@ Physical Topology
  
  ```
 
-* [physicaltopology](/documentation/E04/E04physicaltopology.drawio)
+* [physicaltopology](/E04/E04physicaltopology.drawio)
 	
 or 
 
 
-![](/documentation/E04/physicaltopologyex4.JPG)
+![](/E04/physicaltopologyex4.JPG)
 
 ```
 Logical topology
@@ -24,12 +24,12 @@ IPv4 subnets & Addresses - OSI Model Layer 3 information
 VLAN information (Where those subnets are used) - OSI Model Layer 2 information
 
 ```
-* [logicaltopology](/documentation/E04/E04logicaltopology.drawio)
+* [logicaltopology](/E04/E04logicaltopology.drawio)
 
 or 
 
 
-![](/documentation/E04/logicaltopologyex4.JPG)
+![](/E04/logicaltopologyex4.JPG)
 
 
 ## 2. Configuration of all the network devices
@@ -42,11 +42,11 @@ or
  
   ```
 
-* [Switch1](/documentation/E04/switch1.cfg)
+* [Switch1](/E04/switch1.cfg)
 
-* [Switch2](/documentation/E04/switch2.cfg)
+* [Switch2](/E04/switch2.cfg)
 
-* [Vyos](/documentation/E04/vyos.cfg)
+* [Vyos](/E04/vyos.cfg)
 
 ## 3. command ip addr
 
@@ -55,7 +55,7 @@ or
 	ip addr
 	the results are showed in the image.
 ```
-![](/documentation/E04/lubuntu1and2ipaddress.JPG)
+![](/E04/lubuntu1and2ipaddress.JPG)
 
 ## 4. Testing connectivity
 
@@ -68,24 +68,24 @@ or
 Lubuntu <-> Lubuntu
 
 ```
-![](/documentation/E04/lubuntu1pinglubuntu2.JPG)
+![](/E04/lubuntu1pinglubuntu2.JPG)
 
 ```
  Lubuntu <-> Vyos
  ```
- ![](/documentation/E04/lubuntu1pingvyos.JPG)
+ ![](/E04/lubuntu1pingvyos.JPG)
 
 ```
  Lubuntu <-> Switch1
 
  ```
-![](/documentation/E04/lubuntu1pingswitch1.JPG)
+![](/E04/lubuntu1pingswitch1.JPG)
 
  ```
  Lubuntu <-> Switch2
 
  ```
-![](/documentation/E04/lubuntu1pingswitch2.JPG)
+![](/E04/lubuntu1pingswitch2.JPG)
 
  
 
@@ -95,7 +95,7 @@ Lubuntu <-> Lubuntu
     verified the settings taken into use by show interfaces
 
 ```
-![](/documentation/E04/vyos_showinterface.JPG)
+![](/E04/vyos_showinterface.JPG)
 
 
  ## 6. show ip route
@@ -103,4 +103,4 @@ Lubuntu <-> Lubuntu
 checked the routing table with show ip route for connected networks (letter C infront of the row).
 
 ```
-![](/documentation/E04/vyos_showiproute.JPG)
+![](/E04/vyos_showiproute.JPG)

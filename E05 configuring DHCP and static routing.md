@@ -10,12 +10,12 @@ Physical Topology
  
  ```
 
-* [physicaltopology](/documentation/E05/E05physicaltopology.drawio)
+* [physicaltopology](/E05/E05physicaltopology.drawio)
 
 or 
 
 
-![](/documentation/E05/physicaltopologyexe5.JPG)
+![](/E05/physicaltopologyexe5.JPG)
 	
 ```
 Logical topology
@@ -24,12 +24,12 @@ IPv4 subnets & Addresses - OSI Model Layer 3 information
 VLAN information (Where those subnets are used) - OSI Model Layer 2 information
 
 ```
-* [logicaltopology](/documentation/E05/E05logicaltopology.drawio)
+* [logicaltopology](/E05/E05logicaltopology.drawio)
 
 or 
 
 
-![](/documentation/E05/logicaltopologyex5.JPG)
+![](/E05/logicaltopologyex5.JPG)
 
 
 ## 2. Configuration of all the network devices
@@ -42,13 +42,13 @@ or
  
   ```
 
-* [Switch1](/documentation/E05/switch1.cfg)
+* [Switch1](/E05/switch1.cfg)
 
-* [Switch2](/documentation/E05/switch2.cfg)
+* [Switch2](/E05/switch2.cfg)
 
-* [Vyos](/documentation/E05/vyos.cfg)
+* [Vyos](/E05/vyos.cfg)
 
-* [Router2](/documentation/E05/router2.cfg)
+* [Router2](/E05/router2.cfg)
 
 
 ## 3. command ip addr
@@ -58,7 +58,7 @@ or
 	ip addr
 	the results are showed in the image.
 ```
-![](/documentation/E05/lubuntu3_ipaddress.JPG)
+![](/E05/lubuntu3_ipaddress.JPG)
 
 ## 4. Testing connectivity
 
@@ -71,35 +71,35 @@ or
 Lubuntu 3 <-> Lubuntu 1
 
 ```
-![](/documentation/E05/lubuntu3-1_ping%2Ctraceroute.JPG)
+![](/E05/lubuntu3-1_ping%2Ctraceroute.JPG)
 
 ```
 Lubuntu 3 <-> Lubuntu 2
 
 ```
-![](/documentation/E05/lubuntu3-2_ping%2Ctraceroute.JPG)
+![](/E05/lubuntu3-2_ping%2Ctraceroute.JPG)
 
 ```
  Lubuntu 3 <-> Vyos
  ```
- ![](/documentation/E05/lubunutu3-vyos_ping%2Ctraceroute.JPG)
+ ![](/E05/lubunutu3-vyos_ping%2Ctraceroute.JPG)
 
 ```
   Lubuntu 3 <-> router2
  ```
- ![](/documentation/E05/lubunutu3-router2_ping%2Ctraceroute.JPG)
+ ![](/E05/lubunutu3-router2_ping%2Ctraceroute.JPG)
 
 ```
  Lubuntu 1 <-> router2
 
  ```
-![](/documentation/E05/lubuntu1-router2_ping%2Ctraceroute.JPG)
+![](/E05/lubuntu1-router2_ping%2Ctraceroute.JPG)
 
  ```
  Lubuntu 2 <-> router2
 
  ```
-![](/documentation/E05/lubuntu2-router2_ping%2Ctraceroute.JPG)
+![](/E05/lubuntu2-router2_ping%2Ctraceroute.JPG)
  
 
  ## 5. DHCP server leases
@@ -108,9 +108,9 @@ Lubuntu 3 <-> Lubuntu 2
     verified the  show dhcp server leases -command from R1 & R2
 
 ```
-![](/documentation/E05/vyos_dhcpserver.JPG)
+![](/E05/vyos_dhcpserver.JPG)
 
-![](/documentation/E05/router2_dhcpserver.JPG)
+![](/E05/router2_dhcpserver.JPG)
 
 
 ## 6. Static Routing screenshots
@@ -119,10 +119,10 @@ Lubuntu 3 <-> Lubuntu 2
   below mentioned screen shots are the various steps followed during static route configure on vyos and router 2 and showing iproute
 ```
 
-![](/documentation/E05/vyosrouter1_showiproute.JPG)
+![](/E05/vyosrouter1_showiproute.JPG)
 
 
-![](/documentation/E05/router2_showiproute.JPG)
+![](/E05/router2_showiproute.JPG)
 
 
-![](/documentation/E05/router2_showiproute_2.JPG)
+![](/E05/router2_showiproute_2.JPG)

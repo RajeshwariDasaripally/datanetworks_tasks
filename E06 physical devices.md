@@ -4,13 +4,13 @@
 suitable physical devices to be used instead of the virtual machines.
 ```
 
-![](/documentation/E06/pricetable.JPG)
+![](/E06/pricetable.JPG)
 
 ```
 physical Topology and How are the devices installed in the rack's  what cable connects to what port are shown in this below screenshot
 ```
 
-![](/documentation/E06/physicalinstallation.JPG)
+![](/E06/physicalinstallation.JPG)
 
 ```
 physical Topology and How the devices are installed in the rack's  what cable connects to what port are shown in this below screenshot

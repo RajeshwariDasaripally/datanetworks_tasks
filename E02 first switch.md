@@ -9,11 +9,11 @@
  
  ```
 
-* [topology](/documentation/E02/E02topology.drawio)
+* [topology](/E02/E02topology.drawio)
 	
 	or
 
-![](/documentation/E02/topologydrawing.JPG)
+![](/E02/topologydrawing.JPG)
 
 ## 2. Switch configuration
  ```
@@ -25,9 +25,9 @@
  
   ```
 
-* [Switch1](/documentation/E02/Switch1.cfg)
+* [Switch1](/E02/Switch1.cfg)
 
-* [Switch2](/documentation/E02/Switch2.cfg)
+* [Switch2](/E02/Switch2.cfg)
 
 	
 
@@ -39,7 +39,7 @@
 	  details  showed in the image.
 ```
 
-![](/documentation/E02/switchsportsenabled.JPG)
+![](/E02/switchsportsenabled.JPG)
 
 
 
@@ -49,7 +49,7 @@
 	ip addr
 	the results are showed in the image.
 ```
-![](/documentation/E02/lubuntuipaddress.JPG)
+![](/E02/lubuntuipaddress.JPG)
 
 ## 5. Testing connectivity
 
@@ -60,12 +60,12 @@
 ```
 Lubuntu1 should ping 192.168.0.2 
 ```
-![](/documentation/E02/lubuntu1connectivity.JPG)
+![](E02/lubuntu1connectivity.JPG)
 
 ```
  Lubuntu2 should ping 192.168.0.1.
  ```
- ![](/documentation/E02/lubuntu2connectivity.JPG)
+ ![](E02/lubuntu2connectivity.JPG)
  
  ``` 
 * If the ping left on while doing changes in the network configuration, 
@@ -76,7 +76,7 @@ Both the results are shown in the below image.
 
  ```
   
-  ![](/documentation/E02/connectivitytesting.JPG)
+  ![](E02/connectivitytesting.JPG)
 
  
  ## 6. show fdb
@@ -85,14 +85,14 @@ Both the results are shown in the below image.
  Command show fdb forwarding tables of the switches can be seen 
  
  ```
-  ![](/documentation/E02/switchesforwardingtable.JPG)
+  ![](E02/switchesforwardingtable.JPG)
   
   
  ## 7. Wiresharking an Ethernet Frame
 
 
  
-  ![](/documentation/E02/lubuntuwireshark.JPG)
+  ![](/E02/lubuntuwireshark.JPG)
 ``` 
 	The recordings on wireshark for LAN2 connection is shown in the below screenshot
 	Check the following fields for the above recordings for the frame2

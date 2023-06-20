@@ -5,8 +5,7 @@
 
 MAC address: `080027150246`
 
-![](/documentation/E01/Lubuntu1.JPG)
-
+![](/E01/Lubuntu1.JPG)
 ## 2. Here is the answers for the questions (What is this virtual machine useful for without a network connection? What can you do with it?
 ## Is there anypoint in computers without network connectivity?
 
@@ -82,8 +81,8 @@ lubuntu@lubuntu-virtualbox:~$
 
 mtr command screenshot
 
-![](/documentation/E01/mtr.JPG)
+![](/E01/mtr.JPG)
 
 mtr-n command screenshot
 
-![](/documentation/E01/mtr-n.JPG)
+![](E01/mtr-n.JPG)
